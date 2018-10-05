@@ -1,0 +1,14 @@
+.column {
+    background-color: #000;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+@media (min-width: 991px) {
+    .column {
+        width: 30%;
+        margin: 10px;
+    }
+}
+
