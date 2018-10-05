@@ -10,6 +10,8 @@
     .column {
         width: 30%;
         margin: 10px;
+        float: left;
+        display: block;
     }
 }
 
